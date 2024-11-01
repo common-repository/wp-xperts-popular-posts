@@ -1,0 +1,17 @@
+.wx-plugin-settings{
+    width: 65%;
+    float: left;
+}
+.wx-plugin-info{
+    width: 30%;
+    float: right;
+    padding-top: 20px;
+}
+.wx-info-widget{
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.wx-info-widget a{
+    font-weight: bold;
+}

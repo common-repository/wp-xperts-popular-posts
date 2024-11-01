@@ -1,0 +1,66 @@
+.wx-pp-posts-wrap{
+
+}
+.wx-pp-post{
+    margin-bottom: 30px;
+}
+.wx-pp-post .wx-pp-thumb{
+    margin-bottom: 10px;
+}
+.wx-pp-post.left-thumbnail .wx-pp-thumb{
+    width: 35%;
+    float: left;
+}
+.wx-pp-thumb img{
+
+}
+.wx-pp-post.left-thumbnail .wx-pp-detail{
+    width: 65%;
+    float: left;
+    padding-left: 10px;
+}
+.wx-pp-post .wx-pp-detail h4.wx-pp-title{
+
+}
+.wx-pp-post .wx-pp-detail h4.wx-pp-title a{
+
+}
+.wx-pp-post .wx-pp-detail h4.wx-pp-title a:hover{
+
+}
+.wx-pp-post .wx-pp-excerpt{
+    margin-bottom: 10px;
+}
+.wx-pp-meta{
+
+}
+.wx-pp-meta .wx-pp-author{
+    margin-right: 10px;
+}
+.wx-pp-meta .wx-pp-time{
+
+}
+.wx-pp-meta .wx-pp-cats, .wx-pp-meta .wx-pp-tags{
+    margin: 10px 0 0 0;
+}
+.wx-pp-meta .wx-pp-cats strong, .wx-pp-meta .wx-pp-tags strong{
+    display: block;
+}
+.wx-pp-meta .wx-pp-cats li, .wx-pp-meta .wx-pp-tags li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 5px;
+
+}
+.wx-pp-meta .wx-pp-cats li a{
+
+}
+.wx-pp-meta .wx-pp-cats li a:hover{
+
+}
+.wx-pp-meta .wx-pp-tags li a{
+
+}
+.wx-pp-meta .wx-pp-tsgs li a:hover{
+
+}
